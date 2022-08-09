@@ -3,4 +3,4 @@
 integrantes:
 
 Nixon Daniel Alvarez
-Amderson Castillo
+Anderson Castillo
